@@ -140,5 +140,3 @@ x = 1 # 1
     test "sum a empty list", do: assert ASumList.call([]) == 0
   end
   ```
-
-##
